@@ -1,0 +1,198 @@
+/* --- Variáveis de Cores e Estilos Globais --- */
+:root {
+    --cor-fundo: #111827; /* Azul marinho escuro, quase preto */
+    --cor-card: #1f2937; /* Cinza azulado escuro */
+    --cor-primaria: #38bdf8; /* Azul claro vibrante (sky blue) */
+    --cor-texto-principal: #e5e7eb; /* Cinza claro */
+    --cor-texto-secundario: #9ca3af; /* Cinza médio */
+    --cor-sucesso: #22c55e; /* Verde */
+    --cor-erro: #ef4444; /* Vermelho */
+    --sombra-card: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+    --sombra-card-hover: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+}
+
+/* --- Estilos Gerais --- */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto-principal);
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    line-height: 1.6;
+}
+
+main {
+    flex-grow: 1;
+    width: 100%;
+}
+
+/* --- Cabeçalho e Navegação --- */
+header {
+    padding: 2rem 1rem;
+    text-align: center;
+    border-bottom: 1px solid var(--cor-card);
+    margin-bottom: 2rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin: 0 0 2rem 0;
+}
+
+#category-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+#category-buttons button {
+    background-color: transparent;
+    color: var(--cor-texto-secundario);
+    padding: 0.75rem 1.5rem;
+    border-radius: 25px;
+    border: 1px solid var(--cor-card);
+    font-weight: 600;
+    font-size: 0.9rem;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#category-buttons button:hover,
+#category-buttons button.active {
+    background-color: var(--cor-primaria);
+    color: var(--cor-fundo);
+    border-color: var(--cor-primaria);
+    transform: translateY(-3px);
+}
+
+/* --- Container e Cards dos Filmes --- */
+#movie-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+    padding: 1rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.movie-card {
+    background-color: var(--cor-card);
+    border-radius: 12px;
+    box-shadow: var(--sombra-card);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.movie-card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--sombra-card-hover);
+}
+
+.movie-card img {
+    width: 100%;
+    height: 480px;
+    object-fit: cover;
+    border-bottom: 3px solid var(--cor-primaria);
+}
+
+.movie-info {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.movie-info h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 0;
+    color: #fff;
+}
+
+.movie-info p {
+    font-size: 0.9rem;
+    color: var(--cor-texto-secundario);
+    flex-grow: 1;
+}
+
+.financial-details {
+    font-size: 0.9em;
+    color: var(--cor-texto-secundario);
+    margin-top: auto;
+    padding-top: 1rem;
+    border-top: 1px solid #374151;
+}
+
+.prejuizo-label {
+    color: var(--cor-erro);
+}
+
+.lucro-label {
+    color: var(--cor-sucesso);
+}
+
+.movie-info a {
+    display: inline-block;
+    text-align: center;
+    background-color: var(--cor-primaria);
+    color: var(--cor-fundo);
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    transition: background-color 0.3s ease;
+}
+
+.movie-info a:hover {
+    background-color: #7dd3fc; /* Azul um pouco mais claro */
+}
+
+/* --- Rodapé --- */
+.footer {
+    background-color: var(--cor-card);
+    color: var(--cor-texto-secundario);
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: 3rem;
+    border-top: 1px solid #374151;
+}
+
+.footer-link {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.footer-link a {
+    color: var(--cor-texto-secundario);
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+.footer-link a:hover {
+    color: var(--cor-primaria);
+}
+
+/* --- Mensagem de Categoria Vazia --- */
+.mensagem-vazio {
+    color: var(--cor-texto-secundario);
+    text-align: center;
+    grid-column: 1 / -1; /* Ocupa todas as colunas do grid */
+    font-size: 1.2rem;
+    padding: 3rem;
+}

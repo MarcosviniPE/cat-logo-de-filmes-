@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Filmes</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <header>
+        <h1> CATÁLOGO FILMES</h1>
+        <!-- Botões de Categoria -->
+        <div id="category-buttons">
+            <button onclick="mostrarTodosOsFilmes()">Todos os Filmes</button>
+            <button onclick="exibirAclamadosPelaCritica()">Aclamados pela Crítica</button>
+            <button onclick="exibirFilmesLucrativos()">Filmes Lucrativos</button>
+            <button onclick="exibirMaioresPrejuizos()">Maiores Prejuízos</button>
+        </div>
+    </header> 
+    
+    <!-- O ID "movie-container" corresponde ao seletor no arquivo style.css -->
+    <main id="movie-container">
+        <!-- Os cards dos filmes serão inseridos aqui pelo JavaScript -->
+    </main>
+
+    <footer class="footer">
+        <ul class="footer-link">
+            <li>
+                <a href="https://www.linkedin.com/in/marcos-vinicius-martins-a67b11177" target="_blank">LinkedIn</a>
+            </li>
+            <li>
+                <a href="https://github.com/MarcosviniPE" target="_blank">Github</a>
+            </li>
+        </ul>
+        
+
+
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

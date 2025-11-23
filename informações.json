@@ -1,0 +1,303 @@
+[
+  {
+    "nome": "Um Sonho de Liberdade",
+    "lançamento": "1994",
+    "descrição": "Dois homens presos se unem ao longo de vários anos, encontrando consolo e eventual redenção através de atos de decência comum.",
+    "custo": "US$ 25 milhões",
+    "bilheteria": "US$ 73,3 milhões",
+    "link": "https://www.imdb.com/title/tt0111161/",
+    "imagem": "https://image.tmdb.org/t/p/w500/hBcY0fE9pfXzvVaY4GKarweriG2.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "O Poderoso Chefão",
+    "lançamento": "1972",
+    "descrição": "O patriarca idoso de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante.",
+    "custo": "US$ 7,2 milhões",
+    "bilheteria": "US$ 246-287 milhões",
+    "link": "https://www.imdb.com/title/tt0068646/",
+    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/o-poderoso-chefao-50-anos/008274f7-a76d-484f-8b5b-1c639c2ce46b.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "Batman: O Cavaleiro das Trevas",
+    "lançamento": "2008",
+    "descrição": "Quando a ameaça conhecida como Coringa emerge de seu passado misterioso, ele causa estragos e caos nas pessoas de Gotham. O Cavaleiro das Trevas deve aceitar um dos maiores testes psicológicos e físicos de sua capacidade de lutar contra a injustiça.",
+    "custo": "US$ 185 milhões",
+    "bilheteria": "US$ 1,009 bilhão",
+    "link": "https://www.imdb.com/title/tt0468569/",
+    "imagem": "https://image.tmdb.org/t/p/w500/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "Pulp Fiction: Tempo de Violência",
+    "lançamento": "1994",
+    "descrição": "As vidas de dois assassinos de aluguel, um boxeador, a esposa de um gângster e um par de bandidos de lanchonete se entrelaçam em quatro contos de violência e redenção.",
+    "custo": "US$ 8,5 milhões",
+    "bilheteria": "US$ 213,9 milhões",
+    "link": "https://www.imdb.com/title/tt0110912/",
+    "imagem": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/5781-cartaz.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "Forrest Gump: O Contador de Histórias",
+    "lançamento": "1994",
+    "descrição": "As presidências de Kennedy e Johnson, o Vietnã, a Watergate e outros eventos históricos se desenrolam através da perspectiva de um homem do Alabama com um QI de 75.",
+    "custo": "US$ 55 milhões",
+    "bilheteria": "US$ 678,2 milhões",
+    "link": "https://www.imdb.com/title/tt0109830/",
+    "imagem": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "A Origem",
+    "lançamento": "2010",
+    "descrição": "Um ladrão que rouba segredos corporativos através do uso da tecnologia de compartilhamento de sonhos recebe a tarefa inversa de plantar uma ideia na mente de um CEO.",
+    "custo": "US$ 160 milhões",
+    "bilheteria": "US$ 839,4 milhões",
+    "link": "https://www.imdb.com/title/tt1375666/",
+    "imagem": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "Matrix",
+    "lançamento": "1999",
+    "descrição": "Um hacker de computador aprende com rebeldes misteriosos sobre a verdadeira natureza de sua realidade e seu papel na guerra contra seus controladores.",
+    "custo": "US$ 63 milhões",
+    "bilheteria": "US$ 467,8 milhões",
+    "link": "https://www.imdb.com/title/tt0133093/",
+    "imagem": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "Jurassic Park: O Parque dos Dinossauros",
+    "lançamento": "1993",
+    "descrição": "Durante uma visita de pré-visualização, um parque temático sofre uma falha de energia crítica, permitindo que seus dinossauros clonados saiam à solta.",
+    "custo": "US$ 63 milhões",
+    "bilheteria": "US$ 1,109 bilhão",
+    "link": "https://www.imdb.com/title/tt0107290/",
+    "imagem": "https://i.pinimg.com/736x/19/9d/62/199d62bd3ff9af02aaa5bce3a42f5483.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "Avatar",
+    "lançamento": "2009",
+    "descrição": "Um paraplégico fuzileiro naval despachado para a lua Pandora em uma missão única se vê dividido entre seguir ordens e proteger o mundo que ele sente ser seu lar.",
+    "custo": "US$ 237 milhões",
+    "bilheteria": "US$ 3,158 bilhões",
+    "link": "https://www.imdb.com/title/tt0499549/",
+    "imagem": "https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "Titanic",
+    "lançamento": "1997",
+    "descrição": "Uma aristocrata de dezessete anos se apaixona por um artista gentil, mas pobre, a bordo do luxuoso e malfadado R.M.S. Titanic.",
+    "custo": "US$ 200 milhões",
+    "bilheteria": "US$ 2,196 bilhões",
+    "link": "https://www.imdb.com/title/tt0120338/",
+    "imagem": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "O Poderoso Chefão II",
+    "lançamento": "1974",
+    "descrição": "A vida pregressa e a carreira de Vito Corleone nos anos 1920 em Nova York são retratadas, enquanto seu filho, Michael, expande e aperta seu controle sobre o sindicato do crime familiar.",
+    "custo": "US$ 13 milhões",
+    "bilheteria": "US$ 48-93 milhões",
+    "link": "https://www.imdb.com/title/tt0071562/",
+    "imagem": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "12 Homens e uma Sentença",
+    "lançamento": "1957",
+    "descrição": "Um jurado dissidente tenta evitar um erro judiciário, forçando seus colegas a reconsiderarem as evidências.",
+    "custo": "US$ 337 mil",
+    "bilheteria": "US$ 2 milhões",
+    "link": "https://www.imdb.com/title/tt0050083/",
+    "imagem": "https://m.media-amazon.com/images/S/pv-target-images/31f149e200806ef60d9de19b10a993070f84a44d25582cbfbe447dffa1b5efba.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "A Lista de Schindler",
+    "lançamento": "1993",
+    "descrição": "Na Polônia ocupada pelos alemães durante a Segunda Guerra Mundial, o industrial Oskar Schindler gradualmente se preocupa com sua força de trabalho judaica após testemunhar sua perseguição pelos nazistas.",
+    "custo": "US$ 22 milhões",
+    "bilheteria": "US$ 322.1 milhões",
+    "link": "https://www.imdb.com/title/tt0108052/",
+    "imagem": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "O Senhor dos Anéis: O Retorno do Rei",
+    "lançamento": "2003",
+    "descrição": "Gandalf e Aragorn lideram o Mundo dos Homens contra o exército de Sauron para desviar seu olhar de Frodo e Sam enquanto eles se aproximam da Montanha da Perdição com o Um Anel.",
+    "custo": "US$ 94 milhões",
+    "bilheteria": "US$ 1.146 bilhão",
+    "link": "https://www.imdb.com/title/tt0167260/",
+    "imagem": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "Clube da Luta",
+    "lançamento": "1999",
+    "descrição": "Um trabalhador de escritório insone e um fabricante de sabão despreocupado formam um clube de luta clandestino que evolui para algo muito, muito maior.",
+    "custo": "US$ 63 milhões",
+    "bilheteria": "US$ 101.2 milhões",
+    "link": "https://www.imdb.com/title/tt0137523/",
+    "imagem": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "Os Bons Companheiros",
+    "lançamento": "1990",
+    "descrição": "A história de Henry Hill e sua vida na máfia, cobrindo seu relacionamento com sua esposa Karen Hill e seus parceiros da máfia Jimmy Conway e Tommy DeVito no sindicato do crime ítalo-americano.",
+    "custo": "US$ 25 milhões",
+    "bilheteria": "US$ 47.1 milhões",
+    "link": "https://www.imdb.com/title/tt0099685/",
+    "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/93/46/41/20258439.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "Os Sete Samurais",
+    "lançamento": "1954",
+    "descrição": "Um vilarejo de fazendeiros pobres contrata sete samurais desempregados para ajudá-los a se defender de bandidos gananciosos.",
+    "custo": "US$ 2 milhões",
+    "bilheteria": "US$ 346 mil",
+    "link": "https://www.imdb.com/title/tt0047478/",
+    "imagem": "https://media.fstatic.com/oxZCwv5fWhumpxan4iDOg39sUkM=/322x478/smart/filters:format(webp)/media/movies/covers/2017/02/a885d48e344b57198b1bb9827994bcd2_i5QBqTo.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "O Silêncio dos Inocentes",
+    "lançamento": "1991",
+    "descrição": "Uma jovem cadete do FBI deve obter a ajuda de um assassino canibal manipulador e encarcerado para ajudar a capturar outro assassino em série, um louco que esfola suas vítimas.",
+    "custo": "US$ 19 milhões",
+    "bilheteria": "US$ 272.7 milhões",
+    "link": "https://www.imdb.com/title/tt0102926/",
+    "imagem": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/10608-cartaz.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "Parasita",
+    "lançamento": "2019",
+    "descrição": "A ganância e a discriminação de classe ameaçam o relacionamento simbiótico recém-formado entre a rica família Park e o pobre clã Kim.",
+    "custo": "US$ 15.5 milhões",
+    "bilheteria": "US$ 263.1 milhões",
+    "link": "https://www.imdb.com/title/tt6751668/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "A Viagem de Chihiro",
+    "lançamento": "2001",
+    "descrição": "Durante a mudança de sua família para o subúrbio, uma menina de 10 anos vagueia por um mundo governado por deuses, bruxas e espíritos, e onde os humanos são transformados em bestas.",
+    "custo": "US$ 19 milhões",
+    "bilheteria": "US$ 395.8 milhões",
+    "link": "https://www.imdb.com/title/tt0245429/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BYmZmMmM4OTYtMDkyNi00ZDI5LThiODItNzhlZGI3ZDJmZDZiXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "tags": ["aclamado"]
+  },
+  {
+    "nome": "John Carter: Entre Dois Mundos",
+    "lançamento": "2012",
+    "descrição": "Transportado para Marte, um veterano da Guerra Civil descobre um planeta exuberante habitado por bárbaros de 3,6 metros de altura. Encontrando-se prisioneiro, ele escapa, apenas para encontrar uma princesa que precisa de um salvador.",
+    "custo": "US$ 263.7 milhões",
+    "bilheteria": "US$ 284.1 milhões",
+    "link": "https://www.imdb.com/title/tt0401729/",
+    "imagem": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/93/44/20039802.jpg",
+    "tags": ["prejuizo_notorio"]
+  },
+  {
+    "nome": "O Cavaleiro Solitário",
+    "lançamento": "2013",
+    "descrição": "O guerreiro nativo americano Tonto narra as histórias não contadas que transformaram John Reid, um homem da lei, em uma lenda da justiça.",
+    "custo": "US$ 225 milhões",
+    "bilheteria": "US$ 260.5 milhões",
+    "link": "https://www.imdb.com/title/tt1210819/",
+    "imagem": "https://play-lh.googleusercontent.com/jEn-6OhUJm4m7jTGTyHxhOXQlFNns9IvlGqAC-wz33qfdQcaz1D95w3AQzyOcaFFkS-h",
+    "tags": ["prejuizo_notorio"]
+  },
+  {
+    "nome": "Marte Precisa de Mães",
+    "lançamento": "2011",
+    "descrição": "Um menino chamado Milo ganha uma apreciação mais profunda por sua mãe depois que marcianos a sequestram para criar seus próprios filhos.",
+    "custo": "US$ 150 milhões",
+    "bilheteria": "US$ 39.2 milhões",
+    "link": "https://www.imdb.com/title/tt1038988/",
+    "imagem": "https://play-lh.googleusercontent.com/CHKGTt4DWR_mWHdAtaNeXl1d1B6JBRvOfMgAtbJlSZGzVAl8nTKQ-D3LPMRnooaQ-7c",
+    "tags": ["prejuizo_notorio"]
+  },
+  {
+    "nome": "47 Ronins",
+    "lançamento": "2013",
+    "descrição": "Uma trupe de samurais parte para vingar a morte de seu mestre nas mãos de um shogun impiedoso.",
+    "custo": "US$ 175 milhões",
+    "bilheteria": "US$ 151.8 milhões",
+    "link": "https://www.imdb.com/title/tt1335975/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMTc0MjE2NzE0OV5BMl5BanBnXkFtZTgwNTU5MjE1MDE@._V1_FMjpg_UX1000_.jpg",
+    "tags": ["prejuizo_notorio"]
+  },
+  {
+    "nome": "A Ilha da Garganta Cortada",
+    "lançamento": "1995",
+    "descrição": "Uma capitã pirata e seu companheiro correm contra seus rivais para encontrar um tesouro fabuloso em uma ilha remota.",
+    "custo": "US$ 98 milhões",
+    "bilheteria": "US$ 10 milhões",
+    "link": "https://www.imdb.com/title/tt0112760/",
+    "imagem": "https://image.tmdb.org/t/p/w500/arv8NOL2eOKcOs54PCXj7EsOiZ6.jpg",
+    "tags": ["prejuizo_notorio"]
+  },
+  {
+    "nome": "Pluto Nash",
+    "lançamento": "2002",
+    "descrição": "Em 2087, o dono de uma boate lunar se mete em apuros quando se recusa a vender seu clube para a máfia local.",
+    "custo": "US$ 100 milhões",
+    "bilheteria": "US$ 7.1 milhões",
+    "link": "https://www.imdb.com/title/tt0180052/",
+    "imagem": "https://br.web.img3.acsta.net/r_1280_720/medias/nmedia/00/02/50/60/affiche.jpg",
+    "tags": ["prejuizo_notorio"]
+    
+  },
+  {
+    "nome": "O 13º Guerreiro",
+    "lançamento": "1999",
+    "descrição": "Um homem, tendo se apaixonado pela mulher errada, é enviado para uma terra distante como embaixador. Seus encontros o levam a se juntar a um grupo de guerreiros vikings que devem lutar contra uma horda de canibais.",
+    "custo": "US$ 160 milhões",
+    "bilheteria": "US$ 61.7 milhões",
+    "link": "https://www.imdb.com/title/tt0120657/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BY2IwMTYyNjctYzhjZi00Y2Y3LWE3NjktMGVjMjFhNzk0NWFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "tags": ["prejuizo_notorio"]
+  },
+  {
+    "nome": "Máquinas Mortais",
+    "lançamento": "2018",
+    "descrição": "Em um mundo pós-apocalíptico onde cidades inteiras se movem sobre rodas e se devoram para sobreviver, duas pessoas se encontram em Londres e tentam impedir uma conspiração.",
+    "custo": "US$ 100 milhões",
+    "bilheteria": "US$ 83.7 milhões",
+    "link": "https://www.imdb.com/title/tt1571234/",
+    "imagem": "https://br.web.img3.acsta.net/pictures/18/10/01/19/34/5754782.jpg",
+    "tags": ["prejuizo_notorio"]
+  },
+  {
+    "nome": "R.I.P.D. - Agentes do Além",
+    "lançamento": "2013",
+    "descrição": "Um policial recentemente falecido se junta a uma equipe de policiais mortos-vivos que trabalham para o Departamento Descanse em Paz e tenta encontrar o homem que o assassinou.",
+    "custo": "US$ 130 milhões",
+    "bilheteria": "US$ 78.3 milhões",
+    "link": "https://www.imdb.com/title/tt0790736/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMTM5OTYxNzE5N15BMl5BanBnXkFtZTcwMDU1MTQ4OQ@@._V1_FMjpg_UX1000_.jpg",
+    "tags": ["prejuizo_notorio"]
+  },
+  {
+    "nome": "O Álamo",
+    "lançamento": "2004",
+    "descrição": "Baseado na batalha de 1836 do Álamo entre um grupo de texanos e mexicanos durante a luta pela independência do Texas do México.",
+    "custo": "US$ 107 milhões",
+    "bilheteria": "US$ 25.8 milhões",
+    "link": "https://www.imdb.com/title/tt0318974/",
+    "imagem": "https://m.media-amazon.com/images/S/pv-target-images/a0f812f0f3896d057b3c525cc9d6a96dc83de8d2f06c9e057e06b4c542953a82.jpg",
+    "tags": ["prejuizo_notorio"]
+  }
+]
